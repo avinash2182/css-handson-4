@@ -134,7 +134,7 @@
 .container
 {
     display: grid;
-    grid-template-columns: auto auto auto 145px;
+    grid-template-columns: auto auto auto 100px;
     grid-template-rows: 42px 87px 117px 25px;
      gap: 15px; 
      color: white;
